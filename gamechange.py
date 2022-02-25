@@ -2,8 +2,6 @@ import csv
 import pygame
 pygame.init()
 
-#TODO: Create a venv
-
 #game variables
 clock = pygame.time.Clock()
 fps = 60
